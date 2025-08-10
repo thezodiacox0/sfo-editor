@@ -52,7 +52,7 @@ Now, run this command to build SFO Editor:
 pyinstaller --onefile sfo_editor_x64.py
 ```
 
-> [!INFO]  
+> [!NOTE]  
 > You can download the Script already compiled and ready to use from [releases](https://github.com/thezodiacox0/sfo-editor/releases)
 
 ## Features
