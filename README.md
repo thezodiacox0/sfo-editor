@@ -17,6 +17,7 @@ To build the script, you need to have the following installed:
 - Python 3 & pip
 - Requests
 - Colorama
+- Pyinstaller
 
 ### Install the dependencies
 
@@ -31,9 +32,7 @@ Python for Linux
 sudo apt install python3 && sudo apt install pip -y
 ```
 
-Once the above is installed, run:
-
-### Colorama & Requests
+### Colorama, Requests & PyInstaller
 
 ```bash
 pip install colorama && pip install requests && pip install pyinstaller
